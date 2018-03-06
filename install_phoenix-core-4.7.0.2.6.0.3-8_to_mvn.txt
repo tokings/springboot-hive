@@ -1,0 +1,2 @@
+mvn install:install-file -Dfile=phoenix-core-4.7.0.2.6.0.3-8.jar -DgroupId=org.apache.phoenix -DartifactId=phoenix-core -Dversion=4.7.0 -Dpackaging=jar
+
